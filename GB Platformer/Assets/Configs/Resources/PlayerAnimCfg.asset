@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b5c6e69fcf3768459b567f98291950c, type: 3}
+  m_Name: PlayerAnimCfg
+  m_EditorClassIdentifier: 
+  Sequence:
+  - Track: 0
+    Sprites:
+    - {fileID: -9214166400764900579, guid: da3c0d6b4a68d7e4689f09d484bb839d, type: 3}
+    - {fileID: -4301672474891968489, guid: da3c0d6b4a68d7e4689f09d484bb839d, type: 3}
+    - {fileID: -5265694415744563965, guid: da3c0d6b4a68d7e4689f09d484bb839d, type: 3}
+    - {fileID: 1948212644320818234, guid: da3c0d6b4a68d7e4689f09d484bb839d, type: 3}
+    - {fileID: 1841380003939878478, guid: da3c0d6b4a68d7e4689f09d484bb839d, type: 3}
+    - {fileID: -4895815862888053056, guid: da3c0d6b4a68d7e4689f09d484bb839d, type: 3}
+  - Track: 1
+    Sprites:
+    - {fileID: 6895502213238341222, guid: 5892f6aa1785fcf4887b9e84b1146dee, type: 3}
+    - {fileID: -3964465402782004347, guid: 5892f6aa1785fcf4887b9e84b1146dee, type: 3}
+    - {fileID: -2805379181540608759, guid: 5892f6aa1785fcf4887b9e84b1146dee, type: 3}
+    - {fileID: -3432744517111369770, guid: 5892f6aa1785fcf4887b9e84b1146dee, type: 3}
+    - {fileID: 260519460875396911, guid: 5892f6aa1785fcf4887b9e84b1146dee, type: 3}
+    - {fileID: -6720205225818781595, guid: 5892f6aa1785fcf4887b9e84b1146dee, type: 3}
